@@ -15,7 +15,8 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/images/adaptive-icon.png",
         "backgroundColor": "#202024"
-      }
+      },
+      "package": "com.anonymous.driverapp"
     },
     "web": {
       "bundler": "metro",
